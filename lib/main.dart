@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Flutter Demo Home Page shahanz'),
     );
   }
 }
@@ -105,6 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ],
         ),
       ),
+      //shanaz
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
         tooltip: 'Increment',
